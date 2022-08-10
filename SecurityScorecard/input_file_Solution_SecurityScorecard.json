@@ -1,0 +1,18 @@
+{
+    "Name": "SecurityScorecard",
+    "Author": "{SecurityScorecard - rushitajudiya2907@gmail.com}",
+    "Logo": "SecurityScorecard",
+    "Description": "SecurityScorecard",
+    "WorkbookDescription": "Workbook Description",
+    "Workbooks": [
+        "Workbooks/SecurityScorecard.json"
+    ],
+    "Data Connectors": [
+        "Data Connectors/SecurityScorecardOverallScore/SecurityScorecardOverallScore_API_FunctionApp.json",
+        "Data Connectors/SecurityScorecardFactor/SecurityScorecardFactor_API_FunctionApp.json",
+        "Data Connectors/SecurityScorecardIssue/SecurityScorecardIssue_API_FunctionApp.json"
+    ],
+    "BasePath": "C:\\Azure-Sentinel\\Solutions\\SecurityScorecard",
+    "Version": "1.0.0",
+    "Metadata": "SolutionMetadata.json"
+  }

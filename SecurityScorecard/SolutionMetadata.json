@@ -1,0 +1,17 @@
+{
+	"publisherId": "SecurityScorecard",
+	"offerId": "securityscorecard-solution",
+	"firstPublishDate": "2022-08-09",
+	"lastPublishDate": "2022-08-25",
+	"providers": ["SecurityScorecard"],
+	"categories": {
+		"domains" : ["Security - Network"],
+		"verticals": []
+	},
+	"support": {
+	  "name": "SecurityScorecard",
+	  "email": "rushitajudiya2907@gmail.com",
+	  "tier": "Microsoft",
+	  "link": "rushitajudiya2907@gmail.com"
+	}
+}
